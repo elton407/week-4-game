@@ -1,0 +1,58 @@
+body {
+	background-image: url("wtbg.jpg");
+	background-size: 115%;
+}
+
+.fighter {
+	width: 15%;
+	height: 15%;
+}
+
+.image {
+	width: 20% ;
+	height:25%;
+	margin-left: 200px;
+
+}
+
+
+.panel-body {
+	background: transparent;
+	text-align: center;
+	border: 5px solid black;
+}
+
+.panel-heading {
+	text-align: center;
+	border: 5px solid black;
+}
+
+.panel-transparent {
+    background: rgba(136, 136, 136, .2);
+}
+
+img.fighter:hover{
+	border: 5px solid black
+}
+
+
+.border {
+	border: 5px solid black;
+}
+
+.col-md-6 {
+	
+}
+
+#playerOne {
+	width: 20% ;
+	height:25%;
+	margin-left: 200px;
+}
+
+#enemy {
+	width: 20% ;
+	height:15%;
+	margin-left: 200px;
+}
+
